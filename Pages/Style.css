@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightseagreen !important;
+  color: white;
+}
+
+.container-fluid h2 {
+  text-align: center;
+  margin-top: 100px;
+  font-family: montserrat;
+  
+}
+
+.container-fluid button {
+  padding: 15px 35px;
+  border: none;
+  border-radius:10px;
+  background-color: rgb(185, 211, 185);
+  color: white;
+  font-size: 20px;
+}
+
+.font {
+  font-size: 2.5rem;
+  color: white;
+}
